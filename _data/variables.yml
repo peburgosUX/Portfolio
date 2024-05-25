@@ -9,10 +9,10 @@ default:
     rss:  /feed.xml
   mathjax: false
   mathjax_autoNumber: false
-  mermaid: false
-  chart: false
+  mermaid: true
+  chart: true
   toc:
-    selectors: 'h1,h2,h3'
+    selectors: 'h1,h2'
   sources: bootcdn
 
   page:
@@ -23,8 +23,8 @@ default:
       theme: light
     articles:
       show_cover: true
-      show_excerpt: false
-      show_readmore: false
+      show_excerpt: true
+      show_readmore: true
       show_info: false
     show_title: true
     show_edit_on_github: false
@@ -34,10 +34,10 @@ default:
     show_subscribe: false
     full_width: false
     sharing: false
-    comment: true
-    license: false
+    comment: false
+    license: true
     pageview: false
-    search: default
+    search: false
 
 sources:
   bootcdn:
