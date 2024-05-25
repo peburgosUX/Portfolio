@@ -200,7 +200,6 @@ exclude:
   - /screenshots
   - /test
   - /vendor
-  - /.obsidian
 
 defaults:
   - scope:
