@@ -42,7 +42,7 @@ pt: &PT
   ARTICLE_DATE_FORMAT     : "%b %d, %Y"
   ARTICLE_LIST_DATE_FORMAT: "%b %d"
   STATISTICS              : "[POST_COUNT] post articles, [PAGE_COUNT] pages."
-  LICENSE_ANNOUNCE        : "Esse site está licensiado pela licença [LICENSE]."
+  LICENSE_ANNOUNCE        : "Esse site está licenciado pela licença [LICENSE]."
   POST_ON_GITHUB          : "Edit on Github"
   FOLLOW_ME               : "Follow me on [NAME]."
   FOLLOW_US               : "Follow us on [NAME]."
